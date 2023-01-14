@@ -27,7 +27,6 @@ Média Notas:
 let nomesAtletas = 0
 let notasObtidas = 0
 let notasValidas = 0
-let mediaValida = 0
 
 for (let i = 0; i < atletas.length; i++){
   nomesAtletas = atletas.map(function(nomes){
